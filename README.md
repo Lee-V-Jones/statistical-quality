@@ -1,1 +1,1 @@
-# statististical-quality
+# statistical-quality
